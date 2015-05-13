@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:divider="?android:listDivider"
+    android:dividerPadding="2.5dp"
+    android:orientation="vertical"
+    android:showDividers="middle"
+    android:weightSum="2" >
+
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/name"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/tvMacAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/macaddress" />
+
+</LinearLayout>
