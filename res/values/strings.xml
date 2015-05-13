@@ -6,5 +6,6 @@
     <string name="name">Name</string>
     <string name="hometown">HomeTown</string>
     <string name="macaddress">macaddress</string>
+    <string name="action_listener">Action-Listener</string>
 
 </resources>
