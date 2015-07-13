@@ -2,7 +2,6 @@
 <resources>
 
     <string name="app_name">CWIronMan</string>
-    <string name="hello_world">Hello world!</string>
     <string name="name">Name</string>
     <string name="hometown">HomeTown</string>
     <string name="macaddress">macaddress</string>
